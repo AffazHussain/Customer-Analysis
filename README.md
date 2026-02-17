@@ -1,92 +1,125 @@
-# 👨🏻‍💻Customer Behavior Data Analyst Portfolio Project
-This project represents a complete, industry standard, end-to-end data analytics workflow, designed to mirror the real responsibilities of professional analysts in modern business environments. The project encompasses all critical stages of data analysis, from data preparation and modeling to insight generation, visualization, and reporting.
 
-This project is perfect for:
-- 📊 Data Analyst aspirants who want to build a strong **Portfolio Project** for interviews and LinkedIn
-- 📚 Anyone learning Python, SQL, and Power BI
-- 💼 Professionals preparing for interviews in Data Analytics, Data Science or Product Analytics roles
+👨🏻‍💻 Customer Behavior Data Analysis Portfolio Project
 
-# **🎥 Watch this [YouTube video](https://www.youtube.com/watch?v=5PrZvPeUw60&list=PLAx-M6Di0SisFJ1rv5M_FRHUlGA5rtUf_&index=3) to implement the full project from scratch:**  
-[![Advanced Data Analysis Portfolio Project using Retail Customer Data](https://github.com/user-attachments/assets/abbb6371-a0b2-4bec-a304-7c7da98658b6)](https://www.youtube.com/watch?v=x8dfQkKTyP0&list=PLAx-M6Di0SisFJ1rv5M_FRHUlGA5rtUf_&index=2)
-🔗 *Link to Video:* [Watch on Youtube](https://www.youtube.com/watch?v=5PrZvPeUw60&list=PLAx-M6Di0SisFJ1rv5M_FRHUlGA5rtUf_&index=3)
+This project demonstrates a complete, industry-level, end-to-end data analytics workflow designed to reflect real-world business problem solving. It showcases my ability to transform raw customer data into actionable business insights using Python, SQL, and Power BI.
 
+The project covers every critical stage of modern data analysis — from data cleaning and modeling to querying, visualization, and strategic reporting.
 
-## 📌 Project Overview
-The goal of this project is to simulate a corporate-grade end-to-end data analytics workflow, demonstrating the ability to translate raw data into strategic business intelligence by:
+⸻
 
-✅ Data Preparation,Modeling & Exploratory Data Analysis (Python): Clean and transform the raw dataset for analysis.
+📌 Project Objective
 
-✅ Data Analysis (SQL): Simulate business transactions, and run queries to extract insights on customer segments, loyalty, and purchase drivers.
+The objective of this project is to simulate a real corporate analytics environment and demonstrate how data can drive strategic business decisions.
 
-✅ Visualization & Insights (Power BI): Build an interactive dashboard that highlights key patterns and trends, enabling stakeholders to make data-driven decisions.
+Through this project, I:
+	•	Performed structured data preparation and exploratory data analysis using Python
+	•	Designed and executed business-driven SQL queries to extract insights
+	•	Built an interactive Power BI dashboard to visualize trends and customer behavior
+	•	Created a professional business report and presentation summarizing findings and recommendations
 
-✅ Report and Presentation: Write a clear project report summarizing your key findings and business recommendations. Prepare a presentation that visually communicates insights and actionable recommendations to stakeholders.
+⸻
 
-![Project Workflow](https://github.com/user-attachments/assets/8bbd5dc9-eb6c-40c1-8f19-c08b4107f654)
+🔍 Project Workflow
 
-## 🛠️ How to Use This Project
+The project follows a structured data analytics lifecycle:
+	1.	Data Collection & Understanding
+	2.	Data Cleaning & Transformation (Python)
+	3.	Database Design & SQL Analysis
+	4.	Data Visualization (Power BI)
+	5.	Business Reporting & Insights Presentation
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/amlanmohanty1/customer-trends-data-analysis-SQL-Python-PowerBI.git
-   cd customer-trends-data-analysis-SQL-Python-PowerBI
-   ```
-2. **Open Customer_Shopping_Behavior_Analysis.ipynb notebook**
+⸻
 
-    This file contains:
+🧠 Tools & Technologies Used
+	•	Python (Pandas, NumPy, Matplotlib, Seaborn)
+	•	SQL (MySQL / PostgreSQL / MS SQL Server)
+	•	Power BI
+	•	Jupyter Notebook
 
-      - Data Import
+⸻
 
-      - Data exploration
+🛠️ Project Implementation Steps
 
-      - Data cleaning
+1️⃣ Data Preparation & EDA (Python)
+	•	Imported raw retail customer dataset
+	•	Performed data cleaning and handling of missing values
+	•	Conducted exploratory data analysis
+	•	Identified patterns in purchase behavior and customer segments
+	•	Prepared structured dataset for database integration
 
-      - Connection to SQL Database
-  
-3. **Load the data from Python notebook into MySQL/PostgreSQL/MS SQL Server**
+File: Customer_Shopping_Behavior_Analysis.ipynb
 
-      - Create a database in SQL
+⸻
 
-      - Run Python code to load data into SQL database
-  
-      - Open **customer_behavior_sql_queries.sql**
-  
-      - Answer Business Questions using SQL Queries 
-      
-4. **Connect the SQL Database to Power BI**
+2️⃣ Database Creation & SQL Analysis
+	•	Designed relational database schema
+	•	Loaded processed data into SQL database
+	•	Wrote advanced SQL queries to answer key business questions such as:
+	•	Customer segmentation analysis
+	•	Purchase frequency trends
+	•	Revenue contribution by customer type
+	•	Loyalty pattern detection
+	•	Product category performance
 
-      - Open **customer_behavior_dashboard.pbix**
-   
-      - Create interactive dashboard in Power BI
-  
-6. **Create Project Report and Presentation**
+File: customer_behavior_sql_queries.sql
 
-      - Create project report
-   
-      - Build presentation deck using Gamma AI
-  
-7. **Follow along with the YouTube video for full walkthrough. 👨‍💼**
+⸻
 
+3️⃣ Interactive Dashboard (Power BI)
+	•	Connected Power BI to SQL database
+	•	Designed KPI-driven dashboard
+	•	Created dynamic visualizations including:
+	•	Revenue trends
+	•	Customer distribution analysis
+	•	Category-wise sales performance
+	•	Loyalty segmentation
+	•	Enabled interactive filtering for stakeholder analysis
 
-## 📜 License
+File: customer_behavior_dashboard.pbix
 
-MIT — feel free to fork, star, and use in your portfolio.
+⸻
 
-## 👨‍💻 About the Author
-Hey, I’m Amlan Mohanty, a Data Analyst & Content Creator.
-I break down complex data topics into simple, practical content that actually helps you land a job.
+4️⃣ Business Insights & Reporting
 
- ### 🚀 Stay Connected & Join my Data Community
-If you enjoyed this project and want to keep learning and growing as a data analyst, let’s stay in touch! I regularly share content around SQL, data analytics, portfolio projects, job tips, and more.
+Prepared a structured business report highlighting:
+	•	Key customer behavior trends
+	•	Revenue-driving segments
+	•	High-performing product categories
+	•	Customer retention insights
+	•	Actionable business recommendations
 
-🎥 YouTube: [Amlan Mohanty](https://www.youtube.com/@amlanmohanty1)
-- Beginner-friendly tutorials, real-world projects, job and career advice
+The final deliverable includes both a detailed report and a professional presentation deck suitable for stakeholder meetings.
 
-📺 Instagram: [datacareerschool](https://www.instagram.com/datacareerschool/)
-- Quick SQL tips, data memes, and behind-the-scenes content
+⸻
 
-💼 LinkedIn: [Amlan Mohanty](https://www.linkedin.com/in/amlanmohanty1/)
-- Let’s connect professionally and grow your data career
+📊 Key Outcomes
 
+✔ Improved understanding of customer segmentation
+✔ Identified revenue concentration patterns
+✔ Analyzed repeat purchase behavior
+✔ Built executive-level dashboard for decision-making
+✔ Demonstrated end-to-end analytics capability
 
-## 💡 Thanks for checking out the project! Your support means a lot! Feel free to star ⭐ this repo or share it with someone learning Data Analytics.🚀
+⸻
+
+🚀 Skills Demonstrated
+	•	Data Cleaning & Wrangling
+	•	Exploratory Data Analysis
+	•	SQL Query Optimization
+	•	Business Problem Solving
+	•	Dashboard Design
+	•	Insight Communication
+	•	Analytical Thinking
+
+⸻
+
+📜 License
+
+MIT License — open for learning and portfolio demonstration.
+
+⸻
+
+👨‍💻 About Me
+
+I am a Data Analytics enthusiast with strong skills in SQL, Python, Excel, and Power BI. I focus on solving real-world business problems using structured analytical approaches and building projects that reflect practical industry experience.
+
